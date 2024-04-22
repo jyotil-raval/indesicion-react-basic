@@ -4,7 +4,7 @@ This course was just updated to support React v16, React Hooks, the Context API,
 
 ---
 
-Have you tried to learn React before?
+## Have you tried to learn React before?
 
 It’s easy to go down the rabbit hole of libraries and tools only to come out of it not knowing how to build and launch a real-world React application. You get things configured, but you’re not sure how the libraries fit together (or if you’re even using the right one).
 
